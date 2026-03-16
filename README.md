@@ -19,17 +19,21 @@ Topics Covered
 💡 Problem solving in C
 
 📂 Questions / Programs
+
 1️⃣ Question 1
+
 📝 Description
 
 Program to perform operation on array elements.
 
 
 Run this program on Online Compiler:
+
 👉 https://onlinegdb.com/7zDCBfdoJ
 
 
 2️⃣ Question 2
+
 📝 Description
 
 Program to work with 2D array input and output.
@@ -40,6 +44,7 @@ Program to work with 2D array input and output.
 
 
 3️⃣ Question 3
+
 📝 Description
 
 Program that performs calculation on matrix elements.
@@ -49,6 +54,7 @@ Program that performs calculation on matrix elements.
 
 
 4️⃣ Question 4
+
 📝 Description
 
 Program to print required matrix elements using conditions.
